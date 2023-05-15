@@ -14,9 +14,12 @@
     width: 600px;
     height: 780px;
     /* margin-left: 30%; */
-    position: absolute;
+    /* position: absolute;
     top: 9%;
-    left: 40%;
+    left: 40%; */
+    margin: auto;
+    position: relative;
+    top: 55px;
     border: 1px solid rgba(255, 203, 199, 1);
     background-color: rgba(255, 203, 199, 1);
     border-radius: 20px;

@@ -1,0 +1,253 @@
+#container{
+    width: 1500px;
+    height: 900px;
+    background-color: rgba(243, 137, 128, 1);
+    margin: auto;
+    border-radius: 20px;
+}
+.page_1{
+    text-align: center;
+    font-size: 60px;
+    color: rgba(243, 137, 128, 1);
+}
+.First{
+    width: 1500px;
+    height: 200px;
+    border-bottom: 5px solid black;
+}
+.left{
+    float: left;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.icon-return{
+    font-size: 50px;
+}
+.icon-return,a{
+    color: black;
+}
+.text-menu{
+    float: right;
+    font-size: 50px;
+    margin-left: 40px;
+}
+.right{
+    float: right;
+}
+.search{
+    float: left;
+    width: 500px;
+    height: 80px;
+    border: 5px sloid white;
+    border-radius: 40px;
+    background-color: white;
+    margin-top: 60px;
+    margin-right: 60px;
+
+}
+.text{
+    float: left;
+    font-size: 35PX;
+    margin-top: 25PX;
+    margin-left: 30px;
+    color: rgba(243, 137, 128, 1);
+}
+.icon-search{
+    float: right;
+    font-size: 45px;
+    margin-top: 20PX;
+    margin-right: 30px;
+    color: rgba(243, 137, 128, 1);
+}
+.dott{
+    float: right;
+    font-size: 50px;
+    margin-top: 70px;
+    margin-right: 70px;
+}
+.Second{
+    width: 1500px;
+    height: 700px;
+}
+.Left-box{
+    float: left;
+    width: 1000px;
+    height: 700px;
+    /* background-color: blue; */
+}
+.three-bok1{
+    margin: auto;
+    position: relative;
+    top: 20px;
+    width: 960px;
+    height: 330px;
+    /* background-color: blueviolet; */
+    margin-left: 20px;
+    display: flex;
+    gap: 10px;
+}
+.box-1{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.fa.fa-book{
+    font-size: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    display: grid;
+    gap: 20px;
+}
+.book{
+    font-size: 40px;
+    padding-left: 80px;
+    padding-top: 150px;
+    position: relative;
+    top:20px;
+}
+.box-2{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.fa.fa-video-camera{
+    font-size: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    display: grid;
+    gap: 20px;
+}
+.video{
+    font-size: 40px;
+    padding-left: 80px;
+    padding-top: 150px;
+    position: relative;
+    top:20px;
+}
+.box-3{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.fa.fa-file-text{
+    font-size: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    display: grid;
+    gap: 20px;
+}
+.reference{
+    font-size: 40px;
+    padding-left: 30px;
+    padding-top: 150px;
+    position: relative;
+    top:20px;
+}
+.three-bok2{
+    margin: auto;
+    position: relative;
+    top: 25px;
+    width: 960px;
+    height: 330px;
+    /* background-color: orange; */
+    display: flex;
+    gap: 10px;
+}
+.box-4{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.fa.fa-users{
+    font-size: 100px;
+    padding-left: 80px;
+    padding-top: 50px;
+    display: grid;
+    gap: 20px;
+}
+.group{
+    font-size: 40px;
+    padding-left: 70px;
+    padding-top: 160px;
+    position: relative;
+    top:20px;
+}
+.box-5{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.fa.fa-gamepad{
+    font-size: 100px;
+    padding-left: 80px;
+    padding-top: 50px;
+    display: grid;
+    gap: 20px;
+}
+.game{
+    font-size: 40px;
+    padding-left: 80px;
+    padding-top: 150px;
+    position: relative;
+    top:20px;
+}
+.box-6{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top: 15px;
+    left: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.fa.fa-code{
+    font-size: 100px;
+    padding-left: 80px;
+    padding-top: 50px;
+    display: grid;
+    gap: 20px;
+}
+.code{
+    font-size: 40px;
+    padding-left: 80px;
+    padding-top: 150px;
+    position: relative;
+    top:20px;
+}
+.Right-box{
+    float: right;
+    width: 500px;
+    height: 700px;
+    /* background-color: pink; */
+}
+.big-box{
+    width: 450px;
+    height: 640px;
+    border-radius: 20px;
+    background-color: white;
+    /* margin: auto; */
+    margin-left: 10px;
+    position: relative;
+    top: 30px;
+
+}

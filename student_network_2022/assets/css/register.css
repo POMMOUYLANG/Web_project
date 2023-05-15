@@ -14,9 +14,12 @@
     width: 600px;
     height: 780px;
     /* margin-left: 30%; */
-    position: absolute;
+    /* position: absolute;
     top: 9%;
-    left: 40%;
+    left: 40%; */
+    margin: auto;
+    position: relative;
+    top: 55px;
     border: 1px solid rgba(255, 203, 199, 1);
     background-color: rgba(255, 203, 199, 1);
     border-radius: 20px;
@@ -47,12 +50,16 @@ input{
     width: 250px;
     font-size: 20px;
     text-align: center;
-    margin: 35px 130px;
+    margin: 30px 130px;
     border: 1px solid  rgba(243, 137, 128, 1);
     border-radius: 100px;
     background-color:  rgba(243, 137, 128, 1);
 }
 .text{
     font-size: 25px;
+    color: rgba(243, 137, 128, 1);
+}
+.text,a{
+    text-decoration: none;
     color: rgba(243, 137, 128, 1);
 }
