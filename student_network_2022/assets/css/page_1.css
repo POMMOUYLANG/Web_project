@@ -91,7 +91,7 @@
     height: 300px;
     position: relative;
     top: 15px;
-    left: 20px;
+    left: 25px;
     border-radius: 20px;
     background-color: white;
 }
@@ -114,11 +114,11 @@
     height: 300px;
     position: relative;
     top: 15px;
-    left: 20px;
+    left: 25px;
     border-radius: 20px;
     background-color: white;
 }
-.fa.fa-video-camera{
+.fa.fa-file-video-o{
     font-size: 100px;
     padding-left: 100px;
     padding-top: 50px;
@@ -137,7 +137,7 @@
     height: 300px;
     position: relative;
     top: 15px;
-    left: 20px;
+    left: 25px;
     border-radius: 20px;
     background-color: white;
 }
@@ -170,7 +170,7 @@
     height: 300px;
     position: relative;
     top: 15px;
-    left: 20px;
+    left: 25px;
     border-radius: 20px;
     background-color: white;
 }
@@ -193,7 +193,7 @@
     height: 300px;
     position: relative;
     top: 15px;
-    left: 20px;
+    left: 25px;
     border-radius: 20px;
     background-color: white;
 }
@@ -216,7 +216,7 @@
     height: 300px;
     position: relative;
     top: 15px;
-    left: 20px;
+    left: 25px;
     border-radius: 20px;
     background-color: white;
 }
@@ -241,13 +241,102 @@
     /* background-color: pink; */
 }
 .big-box{
-    width: 450px;
+    width: 400px;
     height: 640px;
     border-radius: 20px;
     background-color: white;
     /* margin: auto; */
-    margin-left: 10px;
+    margin-left: 30px;
     position: relative;
     top: 30px;
-
+}
+.row1{
+    width: 350px;
+    height: 100px;
+    /* background-color: yellow; */
+    position: relative;
+    left: 30px;
+    top:20px
+}
+.fa.fa-home{
+    font-size: 70px;
+    margin-top: 50PX;
+}
+.home{
+    font-size: 35px;
+    position: relative;
+    left: 30px;
+    bottom: 5px;
+}
+.row2{
+    width: 350px;
+    height: 100px;
+    /* background-color: orange; */
+    position: relative;
+    left: 30px;
+    top:40px
+}
+.fa.fa-user-circle-o{
+    font-size: 60px;
+    margin-top: 50PX;
+}
+.user{
+    font-size: 35px;
+    position: relative;
+    left: 30px;
+    bottom: 10px;
+}
+.row3{
+    width: 350px;
+    height: 100px;
+    /* background-color: purple; */
+    position: relative;
+    left: 30px;
+    top: 55px;
+}
+.fa.fa-user-plus{
+    font-size: 60px;
+    margin-top: 50PX;
+}
+.friend{
+    font-size: 35px;
+    position: relative;
+    left: 30px;
+    bottom: 10px;
+}
+.row4{
+    width: 350px;
+    height: 100px;
+    /* background-color: green; */
+    position: relative;
+    left: 30px;
+    top:65px
+}
+.fa.fa-archive{
+    font-size: 60px;
+    margin-top: 50PX;
+}
+.memorie{
+    font-size: 35px;
+    position: relative;
+    left: 30px;
+    bottom: 5px;
+}
+.row5{
+    width: 350px;
+    height: 100px;
+    /* background-color: rgb(237, 194, 190); */
+    position: relative;
+    left: 30px;
+    top:75px;
+}
+.fa.fa-bookmark{
+    font-size: 60px;
+    margin-top: 50PX;
+}
+.save{
+    font-size: 35px;
+    position: relative;
+    left: 30px;
+    bottom: 5px;
 }
