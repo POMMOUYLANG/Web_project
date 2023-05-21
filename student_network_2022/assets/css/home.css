@@ -43,8 +43,9 @@
     text-decoration: none;
     color: black;
 }
-.list-items1,a:hover{
+.CL:hover{
     color: rgb(251, 0, 84);
+    text-decoration: underline;
 }
 .list-items1.active{
     color: white;
@@ -81,13 +82,6 @@
     height: 700px;
 
 }
-/* img{
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
-    border-top: 4px solid black;
-    width: 1500px;
-    height: 715px;
-} */
 .big-text{
     font-size: 40px;
     color: white;

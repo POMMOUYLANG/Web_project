@@ -15,48 +15,64 @@
     height: 200px;
     border-bottom: 5px solid black;
 }
+.icon{
+    float: left;
+    position: relative;
+    left: 15px;
+    top: 10px;
+    font-size: 100px;
+}
 .left{
     float: left;
-    margin-top: 70px;
-    margin-left: 70px;
+    position: relative;
+    left: 60PX;
+    top: 75PX;
+    display: flex;
+    gap: 30px;
+    font-size: 35px;
 }
-.icon-return{
-    font-size: 50px;
+.list-items1.active{
+    color: white;
 }
-.icon-return,a{
-    color: black;
+.color:hover{
+    color: rgb(251, 0, 84);
+    text-decoration: underline;
 }
-.text-menu{
-    float: right;
-    font-size: 50px;
-    margin-left: 40px;
+.title{
+    float: left;
+    font-size: 25px;
+    position: relative;
+    top: 140px;
+    right: 830px;
 }
 .right{
     float: right;
 }
 .search{
     float: left;
-    width: 500px;
-    height: 80px;
+    width: 400px;
+    height: 60px;
     border: 5px sloid white;
     border-radius: 40px;
     background-color: white;
-    margin-top: 60px;
-    margin-right: 60px;
-
+    position: relative;
+    top: 65px;
+    right: 30px;
 }
 .text{
     float: left;
-    font-size: 35PX;
-    margin-top: 25PX;
-    margin-left: 30px;
+    font-size: 25PX;
+    position: relative;
+    top: 15px;
+    left: 12px;
     color: rgba(243, 137, 128, 1);
 }
 .icon-search{
     float: right;
-    font-size: 45px;
-    margin-top: 20PX;
-    margin-right: 30px;
+    font-size: 35px;
+    position: relative;
+    top: 12px;
+    right: 15px;
     color: rgba(243, 137, 128, 1);
 }
 .dott{
@@ -118,7 +134,7 @@
     border-radius: 20px;
     background-color: white;
 }
-.fa.fa-file-video-o{
+.fa.fa-video-camera{
     font-size: 100px;
     padding-left: 100px;
     padding-top: 50px;
@@ -277,7 +293,7 @@
     left: 30px;
     top:40px
 }
-.fa.fa-user-circle-o{
+.fa.fa-user-circle{
     font-size: 60px;
     position: relative;
     top: 20px;
@@ -346,9 +362,14 @@
     left: 50px;
     top: 10px;
 }
+.CL:hover{
+    color: rgb(251, 0, 84);
+    text-decoration: underline;
+}
+.BO:hover{
+    text-decoration: underline;
+}
 a{
     text-decoration: none;
-}
-a:hover{
-    text-decoration: underline;
+    color: black;
 }
