@@ -260,13 +260,14 @@
 }
 .fa.fa-home{
     font-size: 70px;
-    margin-top: 50PX;
+    position: relative;
+    top: 20px;
 }
 .home{
     font-size: 35px;
     position: relative;
     left: 30px;
-    bottom: 5px;
+    top: 10px;
 }
 .row2{
     width: 350px;
@@ -278,13 +279,14 @@
 }
 .fa.fa-user-circle-o{
     font-size: 60px;
-    margin-top: 50PX;
+    position: relative;
+    top: 20px;
 }
 .user{
     font-size: 35px;
     position: relative;
     left: 30px;
-    bottom: 10px;
+    top: 10px;
 }
 .row3{
     width: 350px;
@@ -296,13 +298,14 @@
 }
 .fa.fa-user-plus{
     font-size: 60px;
-    margin-top: 50PX;
+    position: relative;
+    top: 20px;
 }
 .friend{
     font-size: 35px;
     position: relative;
     left: 30px;
-    bottom: 10px;
+    top: 10px;
 }
 .row4{
     width: 350px;
@@ -314,13 +317,14 @@
 }
 .fa.fa-archive{
     font-size: 60px;
-    margin-top: 50PX;
+    position: relative;
+    top: 20px;
 }
 .memorie{
     font-size: 35px;
     position: relative;
-    left: 30px;
-    bottom: 5px;
+    left: 35px;
+    top: 10px;
 }
 .row5{
     width: 350px;
@@ -332,11 +336,19 @@
 }
 .fa.fa-bookmark{
     font-size: 60px;
-    margin-top: 50PX;
+    position: relative;
+    left: 10px;
+    top: 20px;
 }
 .save{
     font-size: 35px;
     position: relative;
-    left: 30px;
-    bottom: 5px;
+    left: 50px;
+    top: 10px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }

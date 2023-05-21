@@ -17,12 +17,17 @@
 }
 .icon{
     float: left;
-    margin: 10px;
+    position: relative;
+    left: 15px;
+    top: 10px;
     font-size: 100px;
 }
 .left{
     float: left;
-    margin: 70px;
+    /* margin: 70px; */
+    position: relative;
+    left: 60PX;
+    top: 75PX;
     display: flex;
     gap: 30px;
     font-size: 35px;
@@ -67,8 +72,9 @@
 .title{
     float: left;
     font-size: 25px;
-    margin: 15px;
-    margin-top: -40px;
+    position: relative;
+    top: 100px;
+    right: 110px;
 }
 .second{
     width: 1500px;
