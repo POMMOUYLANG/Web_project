@@ -1,0 +1,118 @@
+#container{
+    width: 1500px;
+    height: 900px;
+    background-color: rgba(243, 137, 128, 1);
+    margin: auto;
+    border-radius: 20px;
+}
+.First{
+    width: 1500px;
+    height: 200px;
+    border-bottom: 5px solid black;
+}
+.home{
+    text-align: center;
+    font-size: 60px;
+    color: rgba(243, 137, 128, 1);
+}
+.icon{
+    float: left;
+    position: relative;
+    left: 15px;
+    top: 10px;
+    font-size: 100px;
+}
+.left{
+    float: left;
+    /* margin: 70px; */
+    position: relative;
+    left: 60PX;
+    top: 75PX;
+    display: flex;
+    gap: 30px;
+    font-size: 35px;
+}
+.right{
+    float: right;
+    margin: 60px;
+    display: flex;
+    gap: 20px;
+    font-size: 35px;
+}
+.list-items1,a{
+    text-decoration: none;
+    color: black;
+}
+.CL:hover{
+    color: rgb(251, 0, 84);
+    text-decoration: underline;
+}
+.list-items1.active{
+    color: white;
+}
+.box1{
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 170px;
+    text-align: center;
+    padding: 10px;
+}
+.box1:hover{
+    background-color: white;
+}
+.box2{
+    border: 2px solid white;
+    border-radius: 20px;
+    width: 170px;
+    text-align: center;
+    padding: 10px;
+}
+.box2:hover{
+    background-color: white;
+}
+.title{
+    float: left;
+    font-size: 25px;
+    position: relative;
+    top: 100px;
+    right: 110px;
+}
+.second{
+    width: 1500px;
+    height: 700px;
+
+}
+.big-text{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+}
+.small-text{
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+}
+.search{
+    width: 1000px;
+    height: 90px;
+    border: 5px sloid white;
+    border-radius: 50px;
+    background-color: white;
+    margin: auto;
+}
+.text{
+    float: left;
+    font-size: 35PX;
+    margin-top: 25PX;
+    margin-left: 30px;
+    color: rgba(243, 137, 128, 1);
+}
+.icon-search{
+    float: right;
+    font-size: 45px;
+    margin-top: 20PX;
+    margin-right: 30px;
+    color: rgba(243, 137, 128, 1);
+}
