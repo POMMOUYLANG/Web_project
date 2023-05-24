@@ -1,0 +1,97 @@
+#container{
+    width: 390px;
+    height: 810px;
+    background-color: rgba(243, 137, 128, 1);
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: auto;
+}
+.Zero{
+    width: 390px;
+    height: 28px;
+    /* background-color: aqua; */
+}
+.left-1{
+    float: left;
+    font-size: 20px;
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+.right-1{
+    float: right;
+    position: relative;
+    right: 15px;
+    top: 5px;
+}
+.First{
+    width: 300px;
+    height: 384px;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+    top: 90px;
+    left: 45px;
+}
+.icon{
+    font-size: 150px;
+    position: relative;
+    left: 60px;
+    top: 35px;
+}
+.box{
+    width: 280px;
+    height: 135px;
+    background-color: rgba(255, 151, 151, 1);
+    border-radius: 20px;
+    position: relative;
+    top: 70px;
+    left: 10px;
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    background-color: white;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.text-T{
+    font-size: 45px;
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+.text-s{
+    font-size: 40px;
+    position: relative;
+    left: 60px;
+    bottom: 40px;
+}
+.text-sn{
+    font-size: 30px;
+    position: relative;
+    left: 34px;
+    top: 18px;
+}
+.Second{
+    width: 300px;
+    height: 80px;
+    background-color: rgba(255, 151, 151, 1);
+    border-radius: 50px;
+    border: 5px solid white;
+    position: relative;
+    top: 120px;
+    left: 45px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h2{
+    font-size: 35px;
+    position: relative;
+    left: 60px;
+    bottom: 6px;
+}

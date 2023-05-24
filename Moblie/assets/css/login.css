@@ -1,0 +1,202 @@
+#container{
+    width: 390px;
+    height: 810px;
+    background-color: rgba(243, 137, 128, 1);
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: auto;
+}
+.Zero{
+    width: 390px;
+    height: 28px;
+    /* background-color: aqua; */
+}
+.left-1{
+    float: left;
+    font-size: 20px;
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+.right-1{
+    float: right;
+    position: relative;
+    right: 15px;
+    top: 5px;
+}
+.First{
+    width: 200px;
+    height: 90px;
+    background-color: rgba(255, 151, 151, 1);
+    border: 2px solid white;
+    border-radius: 20px;
+    position: relative;
+    top: 25px;
+    left: 85px;
+}
+.icon{
+    font-size: 50px;
+    position: relative;
+    top: 15px;
+    left: 5px;
+}
+.circle{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 30px;
+    position: relative;
+    left: 70px;
+    bottom: 35px;
+}
+.text-T{
+    font-size: 25px;
+    position: relative;
+    left: 7px;
+}
+.text-s{
+    font-size: 22px;
+    position: relative;
+    left: 30px;
+    bottom: 26px;
+}
+.text-sn{
+    font-size: 18px;
+    position: relative;
+    bottom: 35px;
+    left: 70px;
+}
+.Google{
+    width: 320px;
+    height: 55px;
+    background-color: rgba(255, 151, 151, 1);
+    border: 2.5px solid white;
+    border-radius: 20px;
+    position: relative;
+    left: 30px;
+    top: 35px;
+}
+.google{
+    width: 40px;
+    position: relative;
+    top: 8px;
+    left: 5px;
+}
+.text-go{
+    font-size: 18px;
+    position: relative;
+    left: 50px;
+    bottom: 42px;
+}
+.Facebook{
+    width: 320px;
+    height: 55px;
+    background-color: rgba(255, 151, 151, 1);
+    border: 2.5px solid white;
+    border-radius: 20px;
+    position: relative;
+    left: 30px;
+    top: 40px;
+}
+.facebook{
+    width: 35px;
+    position: relative;
+    top: 10px;
+    left: 8px;
+}
+.text-fa{
+    font-size: 18px;
+    position: relative;
+    left: 50px;
+    bottom: 38px;
+}
+.line1{
+    width: 80px;
+    border: 1px solid black;
+    position: relative;
+    top: 65px;
+    left: 32px;
+}
+.line2{
+    width: 80px;
+    border: 1px solid black;
+    position: relative;
+    top: 45px;
+    left: 270px;
+}
+.with{
+    font-size: 15px;
+    position: relative;
+    left: 120px;
+    top: 55px;
+}
+label{
+    font-size: 15px;
+    position: relative;
+    left: 30px;
+    top: 75px;
+}
+input{
+    font-size: 12px;
+    width: 320px;
+    height: 35px;
+    border: none;
+    border-radius: 6px;
+    position: relative;
+    top: 80px;
+    left: 30px;
+}
+.froget{
+    font-size: 15px;
+    position: relative;
+    top: 95px;
+    left: 30px;
+    text-decoration: underline;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#checkbox{
+    width: 20px;;
+    position: relative;
+    left: 27px;
+    top: 140px;
+}
+.rem{
+    position: relative;
+    top: 128px;
+    left: 25px;
+}
+.box-login{
+    width: 150px;
+    height: 60px;
+    background-color: rgba(255, 151, 151, 1);
+    border: 2px solid white;
+    border-radius: 30px;
+    position: relative;
+    top: 90px;
+    left: 200px;
+}
+.login{
+    font-size: 20px;
+    position: relative;
+    left: 42px;
+    top: 18px;
+}
+.does{
+    font-size: 18px;
+    position: relative;
+    top: 120px;
+    left: 70px;
+}
+.box-sign{
+    width: 170px;
+    height: 60px;
+    background-color: rgba(255, 151, 151, 1);
+    border: 2px solid white;
+    border-radius: 30px;
+    position: relative;
+    top: 150px;
+    left: 110px;
+}
