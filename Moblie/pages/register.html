@@ -5,8 +5,60 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Register</title>
+    <link rel="stylesheet" href="../assets/css/register.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"/>
   </head>
   <body>
-    This is register page
+    <div id="container">
+      <div class="Zero">
+        <div class="left-1">
+          <span>5:00 AM</span>
+        </div>
+        <div class="right-1">
+          <i class="fa fa-wifi" aria-hidden="true"></i>
+          <span>99%</span>
+          <i class="fa fa-battery-full" aria-hidden="true"></i>
+        </div>
+      </div>  
+      <div class="First">
+        <div class="Text">
+          <span class="text-sign"><h2>SIGN UP FROM</h2></span>
+          <span class="please"><p>PLEASE COMPLETE ALL INFORMATION BELOW:</p></span>
+        </div>
+      </div>
+      <div class="Second">
+        <form action="">
+          <label for=""><b> FIRST NAME :</b></label><br><br>
+          <input type="text" placeholder="FIRST NAME" name="" id="FN"><br>
+          <label for=""><b> LAST NAME :</b></label><br><br>
+          <input type="text" placeholder="LAST NAME" name="" id="LN"><br>
+          <div class="letf">
+            <label for=""><b>GENDER :</b> </label><br>
+            <select name="" id="" class="gender">
+              <option value="NONE">NONE</option>
+              <option value="MALE">MALE</option>
+              <option value="FEMALE">FEMALE</option>
+            </select>
+          </div>
+          <div class="right">
+            <span class="date"><h4>DATE :</h4></span>
+            <input type="date" name="" id="date"><br>
+          </div>
+        </form>
+      </div>
+      <div class="Third">
+        <form action="">
+          <label id="email" for=""><b> EMAIL :</b></label><br>
+          <input type="email" placeholder="EMAIL ADDRESS OR USERNAME" name="" id="EM"><br>
+          <label id="pw" for=""><b>PASSWORD :</b></label><br><br>
+          <input type="password" placeholder="PASSWORD" name="" id="PW"><br>
+          <label id="cpw" for=""><b>CONFIRM PASSWORD :</b></label><br><br>
+          <input type="password" placeholder="CONFIRM PASSWORD" name="" id="CPW"><br>
+        </form>
+      </div>
+      <div class="box-signup">
+        <span class="signup"><a href="../home.html"><p><b>SIGN UP</b></p></a></span>
+      </div>
+    </div>
   </body>
 </html>

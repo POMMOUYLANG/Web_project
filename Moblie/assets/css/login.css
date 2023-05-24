@@ -76,6 +76,9 @@
     left: 30px;
     top: 35px;
 }
+.Google:hover{
+    background-color: white;
+}
 .google{
     width: 40px;
     position: relative;
@@ -97,6 +100,9 @@
     position: relative;
     left: 30px;
     top: 40px;
+}
+.Facebook:hover{
+    background-color: white;
 }
 .facebook{
     width: 35px;
@@ -141,17 +147,21 @@ input{
     width: 320px;
     height: 35px;
     border: none;
+    border: 2px solid black;
     border-radius: 6px;
     position: relative;
     top: 80px;
     left: 30px;
 }
-.froget{
+.for{
     font-size: 15px;
     position: relative;
     top: 95px;
     left: 30px;
     text-decoration: underline;
+}
+.for:hover{
+    background-color: white;
 }
 a{
     color: black;
@@ -178,6 +188,9 @@ a{
     top: 90px;
     left: 200px;
 }
+.box-login:hover{
+    background-color: white;
+}
 .login{
     font-size: 20px;
     position: relative;
@@ -199,4 +212,7 @@ a{
     position: relative;
     top: 150px;
     left: 110px;
+}
+.box-sign:hover{
+    background-color: white;
 }
