@@ -3,6 +3,7 @@
     height: 810px;
     background-color: rgba(243, 137, 128, 1);
     border: 5px solid black;
+    padding: 20px;
     border-radius: 20px;
     margin: auto;
 }
