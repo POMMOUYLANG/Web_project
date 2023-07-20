@@ -68,7 +68,7 @@
 }
 .Google{
     width: 320px;
-    height: 55px;
+    height: 50px;
     background-color: rgba(255, 151, 151, 1);
     border: 2.5px solid white;
     border-radius: 20px;
@@ -89,7 +89,7 @@
     font-size: 18px;
     position: relative;
     left: 50px;
-    bottom: 42px;
+    bottom: 16px;
 }
 .Facebook{
     width: 320px;
@@ -114,7 +114,7 @@
     font-size: 18px;
     position: relative;
     left: 50px;
-    bottom: 38px;
+    bottom: 16px;
 }
 .line1{
     width: 80px;
